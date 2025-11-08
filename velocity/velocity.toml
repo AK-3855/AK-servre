@@ -6,7 +6,8 @@ bind = "0.0.0.0:25567"
 
 # What should be the MOTD? This gets displayed when the player adds your server to
 # their server list. Only MiniMessage format is accepted.
-motd = "<#09add3>A Velocity Server"
+ motd = "<bold><gradient:#ff0000:#ffa500>PvP & Survival</gradient> <gray>| <green>Adventure awaits you!</green></bold>"
+
 
 # What should we display for the maximum number of players? (Velocity does not support a cap
 # on the number of players online.)
@@ -16,7 +17,7 @@ show-max-players = -1
 online-mode = false
 
 # Should the proxy enforce the new public key security standard? By default, this is on.
-force-key-authentication = true
+force-key-authentication = false
 
 # If client's ISP/AS sent from this proxy is different from the one from Mojang's
 # authentication server, the player is kicked. This disallows some VPN and proxy

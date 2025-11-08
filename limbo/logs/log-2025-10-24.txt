@@ -1,0 +1,34 @@
+14:59:45.967 INFO  Limbo -- Starting server...
+14:59:47.073 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+15:01:18.276 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:35194) [V1_12_2]
+15:01:38.389 INFO  Limbo -- Player AK3855 disconnected
+15:02:10.833 INFO  Limbo -- Unknown command. Type "help" to get commands list
+15:02:20.208 INFO  Limbo -- Unknown command. Type "help" to get commands list
+15:02:33.964 INFO  Limbo -- Player AK_G4 connected (/127.0.0.1:55576) [V1_12_2]
+15:02:58.498 INFO  Limbo -- Player AK_G4 disconnected
+15:08:50.450 INFO  Limbo -- Player AK_G4 connected (/127.0.0.1:34998) [V1_12_2]
+15:08:56.983 INFO  Limbo -- Player AK_G4 disconnected
+21:49:19.339 INFO  Limbo -- Starting server...
+21:49:20.200 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+21:52:36.419 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:58392) [V1_12_2]
+21:52:42.917 INFO  Limbo -- Player AK3855 disconnected
+22:03:58.363 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:37778) [V1_12_2]
+22:04:05.963 INFO  Limbo -- Player AK3855 disconnected
+22:05:40.826 INFO  Limbo -- Player AK_3855 connected (/127.0.0.1:43724) [V1_8]
+22:05:43.775 INFO  Limbo -- Player AK_3855 disconnected
+22:05:57.021 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:51852) [V1_8]
+22:06:02.572 INFO  Limbo -- Player AK3855 disconnected
+22:26:16.721 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:39894) [V1_8]
+22:26:18.832 INFO  Limbo -- Player AK3855 disconnected
+22:27:18.365 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:41734) [V1_12_2]
+22:27:27.360 INFO  Limbo -- Player AK3855 disconnected
+22:27:31.747 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:33402) [V1_12_2]
+22:27:43.187 INFO  Limbo -- Stopping server...
+22:27:43.188 INFO  Limbo -- Server stopped, Goodbye!
+22:27:43.192 INFO  Limbo -- Player AK3855 disconnected
+22:28:45.471 INFO  Limbo -- Starting server...
+22:28:46.161 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+22:29:38.272 INFO  Limbo -- Player AK3855 connected (/127.0.0.1:54130) [V1_12_2]
+22:29:46.637 INFO  Limbo -- Player George_DC connected (/127.0.0.1:38578) [V1_12_2]
+22:29:52.863 INFO  Limbo -- Player AK3855 disconnected
+22:30:05.368 INFO  Limbo -- Player George_DC disconnected

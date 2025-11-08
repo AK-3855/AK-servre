@@ -1,0 +1,41 @@
+[2025/11/06 19:00:34]: §9          __             _       
+[2025/11/06 19:00:34]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/11/06 19:00:34]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/11/06 19:00:34]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/11/06 19:00:34]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/11/06 19:00:34]: §9                  |___/            
+[2025/11/06 19:00:34]: §9 By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[2025/11/06 19:00:34]: §9 
+[2025/11/06 19:00:35]: §3[nLogin] [DEBUG] All settings were loaded in 453 ms.
+[2025/11/06 19:00:35]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2025/11/06 19:00:35]: §3[nLogin] [DEBUG] All plugin messages were loaded in 170 ms (languageByClient=false).
+[2025/11/06 19:00:35]: §3[nLogin] [DEBUG] All proxy settings were loaded in 27 ms.
+[2025/11/06 19:00:35]: §3[nLogin] [DEBUG] Loading database...
+[2025/11/06 19:00:36]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/11/06 19:00:41]: 
+[2025/11/06 19:00:41]:  §bThank you so much for choosing nLogin! §4<3
+[2025/11/06 19:00:41]: 
+[2025/11/06 19:00:41]:  §4For your safety, please read the message below:
+[2025/11/06 19:00:41]:   §cNever download nLogin from unknown sources.
+[2025/11/06 19:00:41]:   §cA modified version may contain malicious software.
+[2025/11/06 19:00:41]: 
+[2025/11/06 19:00:41]:  §3Trusted sources:
+[2025/11/06 19:00:41]:   §bwww.nickuc.com
+[2025/11/06 19:00:41]:   §bwww.github.com/nickuc
+[2025/11/06 19:00:41]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2025/11/06 19:00:41]: 
+[2025/11/06 19:00:41]:  §3Official support channels:
+[2025/11/06 19:00:41]:   §bDiscord group: §fwww.nickuc.com/discord
+[2025/11/06 19:00:41]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2025/11/06 19:00:41]:   §bEmail: §fsupport@nickuc.com
+[2025/11/06 19:00:41]:   §bYouTube: §fyoutube.com/nickuc
+[2025/11/06 19:00:41]: 
+[2025/11/06 19:00:41]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2025/11/06 19:00:41]:  §eand click the "Setup plugin" button to configure your plugin.
+[2025/11/06 19:00:41]: 
+[2025/11/06 19:01:47]: §3[nLogin] [DEBUG] The AK_3855 (0:0:0:0:0:0:0:1) player entered an incorrect password
+[2025/11/06 19:01:55]: §3[nLogin] [DEBUG] The AK_3855 (0:0:0:0:0:0:0:1) player entered an incorrect password
+[2025/11/06 19:02:03]: §3[nLogin] [DEBUG] The AK_3855 (0:0:0:0:0:0:0:1) player entered an incorrect password
+[2025/11/06 19:02:10]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AK_3855', `unique_id` = de0c98c52d133bc0a14dc4360b44b5cc,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$YCwQeIiLj2w0aDk9lnVMbeydFTJV39.s7LDqNYrGHjlgEmrvrx2MO', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-11-05 16:14:24.376, `last_seen` = 2025-11-06 19:02:09.98, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 6" (applied to [last_ip, last_seen, settings] columns)
+[2025/11/06 19:02:10]: [nLogin] The user AK_3855 has successfully logged in.
+[2025/11/06 19:02:27]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AK_3855', `unique_id` = de0c98c52d133bc0a14dc4360b44b5cc,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$YCwQeIiLj2w0aDk9lnVMbeydFTJV39.s7LDqNYrGHjlgEmrvrx2MO', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-11-05 16:14:24.376, `last_seen` = 2025-11-06 19:02:27.368, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 6" (applied to [last_seen, settings] columns)

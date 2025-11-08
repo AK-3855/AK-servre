@@ -25,3 +25,13 @@ Then go to ports, and set the visibilty of 25567 to public.
 ENJOY!
 
 Note the server is on the direct ip
+
+
+
+
+
+for the boss
+ /im spawn zombie molten
+/im spawn skeleton ghastly
+/im spawn creeper explode
+/im spawn spider firework

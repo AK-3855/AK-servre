@@ -1,0 +1,52 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1762112651303
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1762359238385
+  login: 1762358533011
+  kits:
+    ak3855: 1762185962695
+money: '0'
+last-account-name: AK3855
+homes:
+  home:
+    world: 1a264580-4f1d-4b4c-9664-7498960fafdd
+    world-name: world
+    x: 165.65005184829272
+    y: 65.37429331309657
+    z: -174.6557859677795
+    yaw: -67.22682189941406
+    pitch: 37.500099182128906
+lastlocation:
+  world: 1a264580-4f1d-4b4c-9664-7498960fafdd
+  world-name: world
+  x: 178.81857237332494
+  y: 64.0
+  z: -176.9416772368647
+  yaw: -83.5767822265625
+  pitch: 69.45010375976562
+logoutlocation:
+  world: 1a264580-4f1d-4b4c-9664-7498960fafdd
+  world-name: world
+  x: 161.09535827733032
+  y: 64.0
+  z: -181.28492411609503
+  yaw: 81.8994140625
+  pitch: 21.90003776550293
+powertools:
+  diamond_sword:
+  - 'false'

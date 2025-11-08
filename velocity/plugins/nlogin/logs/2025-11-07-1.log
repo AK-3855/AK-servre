@@ -1,0 +1,43 @@
+[2025/11/07 01:07:04]: §9          __             _       
+[2025/11/07 01:07:04]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/11/07 01:07:04]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/11/07 01:07:04]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/11/07 01:07:04]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/11/07 01:07:04]: §9                  |___/            
+[2025/11/07 01:07:04]: §9 By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[2025/11/07 01:07:04]: §9 
+[2025/11/07 01:07:05]: §3[nLogin] [DEBUG] All settings were loaded in 540 ms.
+[2025/11/07 01:07:05]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2025/11/07 01:07:05]: §3[nLogin] [DEBUG] All plugin messages were loaded in 252 ms (languageByClient=false).
+[2025/11/07 01:07:05]: §3[nLogin] [DEBUG] All proxy settings were loaded in 27 ms.
+[2025/11/07 01:07:05]: §3[nLogin] [DEBUG] Loading database...
+[2025/11/07 01:07:07]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/11/07 01:07:12]: 
+[2025/11/07 01:07:12]:  §bThank you so much for choosing nLogin! §4<3
+[2025/11/07 01:07:12]: 
+[2025/11/07 01:07:12]:  §4For your safety, please read the message below:
+[2025/11/07 01:07:12]:   §cNever download nLogin from unknown sources.
+[2025/11/07 01:07:12]:   §cA modified version may contain malicious software.
+[2025/11/07 01:07:12]: 
+[2025/11/07 01:07:12]:  §3Trusted sources:
+[2025/11/07 01:07:12]:   §bwww.nickuc.com
+[2025/11/07 01:07:12]:   §bwww.github.com/nickuc
+[2025/11/07 01:07:12]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2025/11/07 01:07:12]: 
+[2025/11/07 01:07:12]:  §3Official support channels:
+[2025/11/07 01:07:12]:   §bDiscord group: §fwww.nickuc.com/discord
+[2025/11/07 01:07:12]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2025/11/07 01:07:12]:   §bEmail: §fsupport@nickuc.com
+[2025/11/07 01:07:12]:   §bYouTube: §fyoutube.com/nickuc
+[2025/11/07 01:07:12]: 
+[2025/11/07 01:07:12]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2025/11/07 01:07:12]:  §eand click the "Setup plugin" button to configure your plugin.
+[2025/11/07 01:07:12]: 
+[2025/11/07 01:08:29]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AK_3855', `unique_id` = de0c98c52d133bc0a14dc4360b44b5cc,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$YCwQeIiLj2w0aDk9lnVMbeydFTJV39.s7LDqNYrGHjlgEmrvrx2MO', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-11-05 16:14:24.376, `last_seen` = 2025-11-07 01:08:29.138, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 6" (applied to [last_ip, last_seen, settings] columns)
+[2025/11/07 01:08:29]: [nLogin] The user AK_3855 has successfully logged in.
+[2025/11/07 01:18:28]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AK_3855', `unique_id` = de0c98c52d133bc0a14dc4360b44b5cc,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$YCwQeIiLj2w0aDk9lnVMbeydFTJV39.s7LDqNYrGHjlgEmrvrx2MO', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-11-05 16:14:24.376, `last_seen` = 2025-11-07 01:18:28.473, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 6" (applied to [last_seen, settings] columns)
+[2025/11/07 01:18:38]: §3[nLogin] [DEBUG] The AK_3855 (0:0:0:0:0:0:0:1) player entered an incorrect password
+[2025/11/07 01:18:49]: §3[nLogin] [DEBUG] The AK_3855 (0:0:0:0:0:0:0:1) player entered an incorrect password
+[2025/11/07 01:18:58]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AK_3855', `unique_id` = de0c98c52d133bc0a14dc4360b44b5cc,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$YCwQeIiLj2w0aDk9lnVMbeydFTJV39.s7LDqNYrGHjlgEmrvrx2MO', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-11-05 16:14:24.376, `last_seen` = 2025-11-07 01:18:58.993, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 6" (applied to [last_ip, last_seen, settings] columns)
+[2025/11/07 01:18:59]: [nLogin] The user AK_3855 has successfully logged in.
+[2025/11/07 01:58:12]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'AK_3855', `unique_id` = de0c98c52d133bc0a14dc4360b44b5cc,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$YCwQeIiLj2w0aDk9lnVMbeydFTJV39.s7LDqNYrGHjlgEmrvrx2MO', `last_ip` = '0:0:0:0:0:0:0:1', `creation_date` = 2025-11-05 16:14:24.376, `last_seen` = 2025-11-07 01:58:12.667, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 6" (applied to [last_seen, settings] columns)
